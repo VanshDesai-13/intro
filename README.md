@@ -1,4 +1,4 @@
 # intro
-First repo
+First repository
 <br>
-By- Vansh Desai
+By - Vansh Desai.
